@@ -27,10 +27,9 @@ We analyze the collected data to gain insights into top performers:
 
 ### Project Structure
 
-- Scraping Scripts: Contains Bright Data scraping scripts for each stage.
-- Python Scripts: Contains Python scripts for data preprocessing and analysis.
-- Data Files: Stores scraped JSON files and processed CSV files.
-- Visualizations: Includes visualizations generated from the data analysis.
+- Bright Data Scraping Scripts: Contains Bright Data scraping scripts for each stage.
+- Scraped Data: Stores scraped JSON files and processed CSV files.
+- Visualization and Interpretations: Includes visualizations generated from the data analysis and the respective interpretations.
 
 ### Usage
 
