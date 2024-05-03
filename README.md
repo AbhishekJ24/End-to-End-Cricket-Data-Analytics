@@ -33,7 +33,7 @@ We analyze the collected data to gain insights into top performers:
 
 ### Usage
 
-- Clone the repository: git clone [https://github.com/AbhishekJ24/end-to-end-cricket-analytics.git](https://github.com/AbhishekJ24/End-to-End-Cricket-Data-Analytics.git)
+- Clone the repository: git clone [https://github.com/AbhishekJ24/End-to-End-Cricket-Data-Analytics.git](https://github.com/AbhishekJ24/End-to-End-Cricket-Data-Analytics.git)
 - Install the required dependencies.
 - Run the scraping scripts to collect data.
 - Run the preprocessing scripts to process the data.
